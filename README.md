@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilShpy
+- 👋 Hi, I’m Pilip Shpyro @PhilShpy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular and Flutter
 - 💞️ I’m looking to collaborate on knowledge exchange
