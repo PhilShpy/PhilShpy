@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Pilip Shpyro @PhilShpy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently the RN
-- 💞️ I’m looking to collaborate on knowledge exchange
 - 📫 How to reach me: shpyromail@gmail.com
 
 <!---
